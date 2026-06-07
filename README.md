@@ -1,4 +1,4 @@
-# HashWalker MD5 — CTF & Pentest Edition
+# HashWalker MD5 
 
 **HashWalker MD5** es una herramienta especializada y optimizada para la enumeración de vulnerabilidades **IDOR** (Insecure Direct Object Reference) en aplicaciones web donde los identificadores de recursos están protegidos o codificados mediante hashes **MD5** avanzados. 
 
