@@ -2,8 +2,6 @@
 
 **HashWalker MD5** es una herramienta especializada y optimizada para la enumeración de vulnerabilidades **IDOR** (Insecure Direct Object Reference) en aplicaciones web donde los identificadores de recursos están protegidos o codificados mediante hashes **MD5** avanzados. 
 
-Diseñado específicamente para retos de **Capture The Flag (CTF)** y auditorías de seguridad, el script permite descubrir recursos y banderas expuestas automatizando la generación de candidatos, el cálculo de esquemas complejos de MD5 y la detección de anomalías en las respuestas del servidor.
-
 ---
 
 ## 🚀 Características Principales
